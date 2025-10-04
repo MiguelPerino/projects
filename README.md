@@ -22,7 +22,7 @@ Este repositório utiliza principalmente:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://img.shields.io/badge/Faculdade-[Nome%20da%20Faculdade]-blue" alt="Faculdade"/>
+  <img src="https://img.shields.io/badge/Faculdade-UTFPR-Londrina-blue" alt="Faculdade"/>
 </p>
 
 ---
